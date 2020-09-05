@@ -1,0 +1,4 @@
+src/FastNote.Core.Common/bin/*
+src/FastNote.Core.Common/obj/*
+src/FastNote.Core.Common.Tests/bin/*
+src/FastNote.Core.Common.Tests/obj/*
